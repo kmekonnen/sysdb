@@ -1,0 +1,1 @@
+sistema que permitira gestionar una escuela
